@@ -7,3 +7,10 @@ Forged and fine-tuned over a long period, this Bitwig Artist Package consists of
 Harmony, musicality, and playability are the focus of this package, with some notable exceptions. These high-quality sounds are ready to play. Enjoy Polarity Tools!
 
 read more on the [Bitwig Page](https://www.bitwig.com/en/bitwig-studio/sound-content/polarity-tools.html)
+
+## More
+I separated all my music goodies into different repositories:
+- 🔥 [Bitwig Presets by Polarity](https://github.com/polarity/polarity-music-tools) - My free to use Bitwig presets (updated regulary)
+- 📋 [Bitwig Projects by Polarity](https://github.com/polarity/bitwig-projects) - My free to use Bitwig projects
+- 💽 [Bitwig Artist Collection](https://github.com/polarity/bitwig-artist-collection) - My official Bitwig 2.0 package
+- ❤️ [Bitwig Community Presets](https://github.com/polarity/bitwig-community-presets) - presets collected from the bitwig discord
